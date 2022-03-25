@@ -1,7 +1,7 @@
 <h1 align="center"> Hey 👋🏽, I'm Anthony Trillo </h1>
 
 <h3 align="center">
-  A Frontend Developer at <a href="https://www.fulljaus.com/">Fulljaus</a>.  
+  A Fullstack Developer at <a href="https://www.fulljaus.com/">Fulljaus</a>.  
 </h3>
 
 ![linked anthony fondo light (1)](https://user-images.githubusercontent.com/48574294/114298136-4db87d00-9a8b-11eb-9c94-5e88d0175c40.png)
