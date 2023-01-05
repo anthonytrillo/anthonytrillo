@@ -62,6 +62,11 @@
   My contributions:
 </h2>
 
-![Prify Philip's GitHub Stats](https://github-readme-stats.vercel.app/api?username=anthonytrillo&hide=["stars"]&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=anthonytrillo&hide=["stars"]&show_icons=true)
 
--------
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anthonytrillo&" alt="anthonytrillo" /></p>
+
+---
+If you wish to support my contributions, you can buy me a coffee. Thanks a lot 😊
+
+<a href="https://www.buymeacoffee.com/anthonytrillo" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
